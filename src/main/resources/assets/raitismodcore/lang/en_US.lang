@@ -1,0 +1,26 @@
+#------------------------------------------------------------------------------------------------------------------en-US
+item.RaitisModCore.compressed_stone.0.name=CompressionStone x8
+item.RaitisModCore.compressed_stone.1.name=CompressionStone x64
+item.RaitisModCore.compressed_stone.2.name=CompressionStone Ingot
+
+item.RaitisModCore.emc_item.0.name=1EMC
+item.RaitisModCore.emc_item.1.name=2EMC
+item.RaitisModCore.emc_item.2.name=4EMC
+item.RaitisModCore.emc_item.3.name=8EMC
+item.RaitisModCore.emc_item.4.name=16EMC
+item.RaitisModCore.emc_item.5.name=32EMC
+item.RaitisModCore.emc_item.6.name=64EMC
+item.RaitisModCore.emc_item.7.name=128EMC
+item.RaitisModCore.emc_item.8.name=256EMC
+item.RaitisModCore.emc_item.9.name=512EMC
+item.RaitisModCore.emc_item.10.name=1024EMC
+item.RaitisModCore.emc_item.11.name=2KEMC
+item.RaitisModCore.emc_item.12.name=4KEMC
+item.RaitisModCore.emc_item.13.name=8KEMC
+item.RaitisModCore.emc_item.14.name=16KEMC
+item.RaitisModCore.emc_item.15.name=32KEMC
+item.RaitisModCore.emc_item.16.name=64KEMC
+item.RaitisModCore.emc_item.17.name=128KEMC
+item.RaitisModCore.emc_item.18.name=256KEMC
+item.RaitisModCore.emc_item.19.name=512KEMC
+item.RaitisModCore.emc_item.20.name=1024KEMC
