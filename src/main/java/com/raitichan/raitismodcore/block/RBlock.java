@@ -8,6 +8,7 @@ import com.raitichan.raitismodcore.util.IRegisteredObject;
 import com.raitichan.raitismodcore.util.ToolClass;
 
 /**
+ * Raiti's Modのシンプルなブロックのベースクラス
  * <br>Created by Raiti-chan on 2017/11/01.
  *
  * @author Raiti-chan

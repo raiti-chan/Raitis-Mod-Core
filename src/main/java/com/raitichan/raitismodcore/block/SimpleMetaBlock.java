@@ -1,7 +1,6 @@
 package com.raitichan.raitismodcore.block;
 
 import java.util.List;
-import java.util.Random;
 
 import net.minecraft.block.material.Material;
 import net.minecraft.client.renderer.texture.IIconRegister;
@@ -15,6 +14,7 @@ import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
 
 /**
+ * メタデータで区別されるブロック
  * <br>Created by Raiti-chan on 2017/11/02.
  *
  * @author Raiti-chan
@@ -105,8 +105,14 @@ public class SimpleMetaBlock extends RBlock {
 		}
 	}
 	
+	/**
+	 * ドロップするアイテムのメタ値を取得します。
+	 * @param meta ブロックのメタ値
+	 * @return ドロップするアイテムのメタ値
+	 */
 	@Override
-	public Item getItemDropped (int meta, Random random, int fortune) {
-		return super.getItemDropped(meta, random, fortune);
+	public int damageDropped (int meta) {
+		return meta;
 	}
+	
 }
